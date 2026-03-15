@@ -1,18 +1,19 @@
-# Project Guideline
+# Guideline
+### Rquired installation
 - node 
 - npm 
 
 (https://nodejs.org/en/download)
 
-### Setup dependency
+### Setup project and dependency
 ```git clone https://github.com/sunsonsu/bubble-sort```
 
 ```cd bubble-sort```
 
 ```npm install```
 
-### Execute code 
+### How to Execute code 
 ```npx tsx src/merge.ts```
 
-### Running unit tests
+### How to Run unit tests
 ```npm test```
